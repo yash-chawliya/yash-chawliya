@@ -1,5 +1,16 @@
 # 💫 About Me:
-i am yash chawliya. i am currently a second year student at national institute of technology (NIT) Delhi.  i am currently working on machine learning and agentic ai. 
+
+🎓 B.Tech CSE @ NIT Delhi | ML & Full-Stack Engineer
+
+I build end-to-end ML systems — from fine-tuning LLMs (Falcon-7B + LoRA)
+to data analytics pipelines and production web apps.
+
+🔭 Currently exploring: Deep Learning, NLP, and applied GenAI
+⚡ Core stack: Python · PyTorch · Hugging Face · React · Node.js
+📊 800+ LeetCode problems solved
+
+📬 chawliya.yash@gmail.com
+🔗 linkedin.com/in/yash-chawliya
 
 
 ## 🌐 Socials:
